@@ -1,7 +1,7 @@
 # Check_Serializability
-Conflict - View - Result Serializability Chcking
+Conflict - View - Result Serializability Checking
 
-Arash Alam
+Arash Alam - M.Sc of Software student
 Shahid Beheshti University
 
 Project for Advanced DataBase Course.
