@@ -4,7 +4,7 @@ Conflict - View - Result Serializability Checking
 Arash Alam - M.Sc of Software student
 Shahid Beheshti University
 
-Project for Advanced DataBase Course.
+Project for Advanced DataBase and is about interleaved schedules between transactions 
 
 input must be a text file like the examples uploaded.
 The format is important.
