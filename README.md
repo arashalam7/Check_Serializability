@@ -21,6 +21,9 @@ second index is: transaction number
 third index is: operate
 fourth index is: the data used
 
+note : 
+open this root folder in environment and run .py file beside .txt files not seperated because python file can't fint .txt files.
+
 2 types of operates :
 1) math including : '*' , '/' , '-' , '+'
 2) DataBase : R , W . means Read and Write. 
